@@ -1,4 +1,8 @@
-
+/*
+ * jquery.placeholder.js
+ * Copyright (c) 2011 Caleb Ogden LLC - http://calebogden.com
+ * Licensed under the MIT license: http://caleb.mit-license.org
+ */
 (function( $ ){
 	$.fn.placeholder = function(options) {
 		
